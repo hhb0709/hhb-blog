@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "5a18705476e9f0ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfce8dfb0806ddc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "java基础知识/文件操作.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c86c4bb811b93782",
+    "type": "split",
+    "children": [
+      {
+        "id": "7958bc7f1d9f48d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97021db2437e0036",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6932500b16f8c9b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "钉钉12",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c99cf3ec384ff68a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed6f0faec6f99e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75656e35bdb3eff2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java基础知识/文件操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "623cf77657c64109",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "java基础知识/文件操作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e689d806d8609faf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8ee19275b835c88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "java基础知识/文件操作.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9dfce8dfb0806ddc",
+  "lastOpenFiles": [
+    "java基础知识/文件操作.md",
+    "java基础知识/流.md",
+    "读书/how tomcat works.md",
+    "Socket类.md",
+    "未命名.md",
+    "回答1.md",
+    "提升自己的好习惯.md",
+    "好句子.md",
+    "开发相关.md",
+    "@TableName.md"
+  ]
+}
