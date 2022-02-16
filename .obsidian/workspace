@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "java基础知识/文件操作.md",
+            "file": "前端/taro.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java基础知识/文件操作.md",
+                "file": "前端/taro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java基础知识/文件操作.md",
+                "file": "前端/taro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java基础知识/文件操作.md"
+                "file": "前端/taro.md"
               }
             }
           }
@@ -121,15 +121,15 @@
   },
   "active": "9dfce8dfb0806ddc",
   "lastOpenFiles": [
+    "前端/taro.md",
+    "java基础知识/登录那些事.md",
+    "docker/常见问题.md",
+    "maven打包，依赖也打进jar包.md",
     "java基础知识/文件操作.md",
     "java基础知识/流.md",
     "读书/how tomcat works.md",
     "Socket类.md",
     "未命名.md",
-    "回答1.md",
-    "提升自己的好习惯.md",
-    "好句子.md",
-    "开发相关.md",
-    "@TableName.md"
+    "回答1.md"
   ]
 }
