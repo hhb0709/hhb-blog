@@ -19,6 +19,3 @@ ServerSocket socket = new ServerSocket(8080,1, InetAddress.getByName("127.0.0.1"
 ```
 
 
-
-
-git config http.proxy http://127.0.0.1:10809
