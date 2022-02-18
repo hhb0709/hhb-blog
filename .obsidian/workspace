@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Socket类.md",
+            "file": "工具/git.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256
   },
   "right": {
     "id": "c99cf3ec384ff68a",
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Socket类.md",
-                "collapseAll": false,
+                "file": "工具/git.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Socket类.md",
+                "file": "工具/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Socket类.md"
+                "file": "工具/git.md"
               }
             }
           }
@@ -121,6 +121,8 @@
   },
   "active": "9dfce8dfb0806ddc",
   "lastOpenFiles": [
+    "工具/git.md",
+    "前端/css.md",
     "Socket类.md",
     "读书/how tomcat works.md",
     "前端/taro.md",
@@ -128,8 +130,6 @@
     "注解.md",
     "提升自己的好习惯.md",
     "回答1.md",
-    "开发相关.md",
-    "2022-01-19.md",
-    "docker/常见问题.md"
+    "开发相关.md"
   ]
 }
