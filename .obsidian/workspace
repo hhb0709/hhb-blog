@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/taro.md",
+            "file": "工具/npm.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/taro.md",
+                "file": "工具/npm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/taro.md",
+                "file": "工具/npm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,11 +109,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/taro.md"
+                "file": "工具/npm.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -121,15 +122,15 @@
   },
   "active": "9dfce8dfb0806ddc",
   "lastOpenFiles": [
-    "前端/taro.md",
-    "java基础知识/登录那些事.md",
-    "docker/常见问题.md",
-    "maven打包，依赖也打进jar包.md",
-    "java基础知识/文件操作.md",
-    "java基础知识/流.md",
+    "工具/npm.md",
+    "工具/git.md",
+    "工具/vscode.md",
+    "工具/docker.md",
+    "工具/阅读代码.md",
     "读书/how tomcat works.md",
-    "Socket类.md",
-    "未命名.md",
-    "回答1.md"
+    "docker/常见问题.md",
+    "数据库/mongodb.md",
+    "前端/css.md",
+    "前端/taro.md"
   ]
 }
